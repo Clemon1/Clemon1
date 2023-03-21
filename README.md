@@ -10,7 +10,7 @@ Hi there! My name is Clemon Ezeh and I'm a FullStack developer. <br>I'm passiona
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://meme-api.com/gimme/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Clemon1&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
